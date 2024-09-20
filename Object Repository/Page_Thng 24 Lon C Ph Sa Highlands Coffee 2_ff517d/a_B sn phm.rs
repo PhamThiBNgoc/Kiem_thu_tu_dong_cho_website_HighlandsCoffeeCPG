@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_B sn phm</name>
+   <tag></tag>
+   <elementGuidId>0537578d-7e08-4963-a42a-6031ee216d72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-sidebars']/div/div[2]/div/div/div[2]/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.cart__btn-remove.remove-item-cart</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9c2183aa-19dc-450e-98aa-d9528721cb97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart__btn-remove remove-item-cart</value>
+      <webElementGuid>e9bf1fe6-68a0-49cc-b235-66c6a092ddbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>fdefb125-d526-4ebf-a007-f0bee21227b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>77488103</value>
+      <webElementGuid>9b6c9c44-15ac-4564-a395-2b3a89b19ec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Bỏ sản phẩm</value>
+      <webElementGuid>4c0392d3-1958-4e3e-a450-e4eeaf253a6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bỏ sản phẩm</value>
+      <webElementGuid>e67ba1ed-37ac-47cc-967d-1a946c8c41df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-sidebars&quot;)/div[@class=&quot;evo-cart-content&quot;]/div[@class=&quot;cart_body&quot;]/div[@class=&quot;clearfix cart_product productid-77488103&quot;]/div[@class=&quot;cart_info&quot;]/div[@class=&quot;row-cart-left&quot;]/div[@class=&quot;text-right cart_prices&quot;]/a[@class=&quot;cart__btn-remove remove-item-cart&quot;]</value>
+      <webElementGuid>2f5a411d-a9e9-469e-8b11-b6b731fc6487</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-sidebars']/div/div[2]/div/div/div[2]/div[2]/a</value>
+      <webElementGuid>9bd04606-12df-4673-af52-5568a40c1445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bỏ sản phẩm')]</value>
+      <webElementGuid>d3728d8e-ad60-4440-91cc-d9f91b4e47ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/following::a[1]</value>
+      <webElementGuid>368e48a5-4e77-4552-a404-9c6c6f75d093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='–'])[2]/following::a[1]</value>
+      <webElementGuid>1c12be8b-278e-4d92-8984-31fb88a7d523</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[NHẬN TÚI CÓI THỜI TRANG] Cà Phê Bột Truyền Thống Highlands Coffee 1KG'])[2]/preceding::a[2]</value>
+      <webElementGuid>bcc798f0-9069-4308-ab73-a6b3f9d3dc4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Title'])[2]/preceding::a[3]</value>
+      <webElementGuid>12a9d5f5-6c82-4d1a-9731-5e70c0b66394</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bỏ sản phẩm']/parent::*</value>
+      <webElementGuid>3fcd29cc-ad95-47a7-8b2b-adcc5418c806</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[4]</value>
+      <webElementGuid>1763d190-9bb7-4e48-8eb4-fa2c314d706a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/a</value>
+      <webElementGuid>2981821a-3707-4dc9-90af-cab68a732479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and @title = 'Bỏ sản phẩm' and (text() = 'Bỏ sản phẩm' or . = 'Bỏ sản phẩm')]</value>
+      <webElementGuid>a87a67bb-2158-4c20-97c5-9e51ccbcd801</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

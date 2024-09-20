@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mua 1 c 3 C ph V ha tit  Voucher trc ti_76f4c4</name>
+   <tag></tag>
+   <elementGuidId>6eecca25-f7b8-4237-b9ae-3b52b5454d01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cart_name</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-sidebars']/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d6d27993-6890-4b85-8bab-438ca48af9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cart_name</value>
+      <webElementGuid>8f07d2ca-a8a8-44a6-8875-d4bf316d86ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>[Mua 1 được 3: Cà phê+ Ví họa tiết + Voucher trực tiếp] Cà Phê Bột Truyền Thống 1kg tặng gói 200g + Voucher trực tiếp+ Ví họa tiết</value>
+      <webElementGuid>80cff911-e299-4413-a192-23f2369af47b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-sidebars&quot;)/div[@class=&quot;evo-cart-content&quot;]/div[@class=&quot;cart_body&quot;]/div[@class=&quot;clearfix cart_product productid-114503628&quot;]/div[@class=&quot;cart_info&quot;]/div[@class=&quot;cart_name&quot;]</value>
+      <webElementGuid>d07763ff-bebc-4570-b09c-8c634553e83d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-sidebars']/div/div[2]/div/div/div</value>
+      <webElementGuid>5d9cf8b1-21fb-4877-9bdc-5b2c55d39c3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng'])[2]/following::div[5]</value>
+      <webElementGuid>d98d8637-8190-468c-aec3-dc4d1e705389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Title'])[1]/preceding::div[1]</value>
+      <webElementGuid>4a9336a8-1f95-492b-aae2-b15c14cc5119</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số lượng'])[1]/preceding::div[1]</value>
+      <webElementGuid>bf7456b4-c887-4f3f-8c80-5edb67c62511</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/div/div/div</value>
+      <webElementGuid>447a86a3-1428-4744-9f8a-e0be493c7c30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '[Mua 1 được 3: Cà phê+ Ví họa tiết + Voucher trực tiếp] Cà Phê Bột Truyền Thống 1kg tặng gói 200g + Voucher trực tiếp+ Ví họa tiết' or . = '[Mua 1 được 3: Cà phê+ Ví họa tiết + Voucher trực tiếp] Cà Phê Bột Truyền Thống 1kg tặng gói 200g + Voucher trực tiếp+ Ví họa tiết')]</value>
+      <webElementGuid>932390e5-2555-471f-8a64-a058f3862c2e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

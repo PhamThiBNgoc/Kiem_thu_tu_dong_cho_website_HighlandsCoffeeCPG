@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Cart</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>a4471f69-eeed-4296-9556-0463a241b5bb</testSuiteGuid>
+   <testCaseLink>
+      <guid>042a0396-417f-4d9d-883a-03bb570cb4da</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/SLInCart</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>2b470d7a-6dc0-4cd7-97d4-37a6030eb4c5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Cart</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>2b470d7a-6dc0-4cd7-97d4-37a6030eb4c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SL</value>
+         <variableId>780072e9-121b-458c-a121-9544eb7fad3a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2b470d7a-6dc0-4cd7-97d4-37a6030eb4c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SLHangCon</value>
+         <variableId>34b770a6-401e-4ea7-a8b0-9e706cd4d2ae</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>2b470d7a-6dc0-4cd7-97d4-37a6030eb4c5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ExpectSL</value>
+         <variableId>ffbe5e86-beea-456f-9d3f-94a0f2fd5c91</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

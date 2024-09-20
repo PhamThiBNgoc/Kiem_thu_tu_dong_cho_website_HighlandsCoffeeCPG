@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_cpg.customerservicevtijs.com_btn btn_15f52a</name>
+   <tag></tag>
+   <elementGuidId>0307a2f7-fa4e-42e9-bc79-c1649bf7d864</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-default</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cf336da9-b755-4260-96b1-6b345c50687e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default</value>
+      <webElementGuid>bea68f47-8e30-4b1a-8caa-8849efe2b94d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>a31b41f8-e369-47a3-95e7-579b77eaa6ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Tìm kiếm</value>
+      <webElementGuid>710d887c-6eb9-4070-87a8-ab45a6560511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;index&quot;]/header[@class=&quot;header&quot;]/div[@class=&quot;top-hea-menu&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row align-items-center evo-header-padding&quot;]/div[@class=&quot;col-lg-6 col-md-5 evo-search-desktop d-lg-block d-none&quot;]/div[@class=&quot;evo-searchs&quot;]/form[@class=&quot;evo-header-search-form has-validation-callback&quot;]/button[@class=&quot;btn btn-default&quot;]</value>
+      <webElementGuid>3d2b6e28-6bc1-4e87-bbb9-8d6c46952d79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>2d33a721-860f-43c2-9e34-a598d4f3d5f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GIỚI THIỆU'])[1]/following::button[1]</value>
+      <webElementGuid>e8e7ec8a-6899-4be7-8df6-5a8e892d41d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cà Phê Rang Xay Culi Highlands Coffee 200g/gói'])[1]/preceding::button[1]</value>
+      <webElementGuid>66f12299-7e48-41b6-aab7-982966e6d0d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cà Phê Rang Xay Moka Highlands Coffee 200g/gói'])[1]/preceding::button[1]</value>
+      <webElementGuid>269cb959-c66c-4430-859e-d553a467495d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>a5cec0d5-043a-499f-b53d-2eb6b442f3df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit']</value>
+      <webElementGuid>7895ffb9-a39a-4663-8f2c-82c2af30f81c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

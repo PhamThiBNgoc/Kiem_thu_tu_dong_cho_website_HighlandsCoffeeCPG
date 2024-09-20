@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Seachh</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ce79eec-86e2-409f-949a-bbe73ab3f9ad</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4916db26-72e9-4fe8-a506-cf5c16c3aa8a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1ecead04-d746-45ac-9de2-2a38aacce300</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c60a5b77-3ca6-4711-8ee5-dd847825bb65</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4916db26-72e9-4fe8-a506-cf5c16c3aa8a</id>
+      <masked>false</masked>
+      <name>Seach</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1ecead04-d746-45ac-9de2-2a38aacce300</id>
+      <masked>false</masked>
+      <name>Result</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c60a5b77-3ca6-4711-8ee5-dd847825bb65</id>
+      <masked>false</masked>
+      <name>Url</name>
+   </variable>
+</TestCaseEntity>

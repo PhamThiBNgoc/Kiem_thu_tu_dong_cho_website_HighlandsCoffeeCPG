@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SLInCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c698aa6f-c86c-4454-8582-33023fe2e602</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>780072e9-121b-458c-a121-9544eb7fad3a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>34b770a6-401e-4ea7-a8b0-9e706cd4d2ae</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ffbe5e86-beea-456f-9d3f-94a0f2fd5c91</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>780072e9-121b-458c-a121-9544eb7fad3a</id>
+      <masked>false</masked>
+      <name>SL</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>34b770a6-401e-4ea7-a8b0-9e706cd4d2ae</id>
+      <masked>false</masked>
+      <name>SLHangCon</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ffbe5e86-beea-456f-9d3f-94a0f2fd5c91</id>
+      <masked>false</masked>
+      <name>ExpectResult</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sapo_backdrop__body-backdrop___1rvky active</name>
+   <tag></tag>
+   <elementGuidId>00089c1c-32a2-47f7-8cea-f35f05c82f25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.backdrop__body-backdrop___1rvky.active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9099b8d6-6fa9-48ef-be2f-5de3404df0d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>backdrop__body-backdrop___1rvky active</value>
+      <webElementGuid>6c22799c-6be5-4256-9087-802e6b93cffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;product&quot;]/div[@class=&quot;backdrop__body-backdrop___1rvky active&quot;]</value>
+      <webElementGuid>b2aad049-e05d-4ba1-a6c1-6e886035d282</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/div[4]</value>
+      <webElementGuid>831f2ed1-9bd0-4a1a-b8ae-64987de28fdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

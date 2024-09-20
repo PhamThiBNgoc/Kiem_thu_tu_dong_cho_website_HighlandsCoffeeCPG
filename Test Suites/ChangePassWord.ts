@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>ChangePassWord</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>f69b9564-3ed0-4c51-94dc-6045e3dad308</testSuiteGuid>
+   <testCaseLink>
+      <guid>2401faad-2aa2-4772-8482-14d14513101d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/ChangePassWord</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7454403a-663c-4118-a3e2-183ddf7a9bd4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/ChangePassWord</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>7454403a-663c-4118-a3e2-183ddf7a9bd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PWDN</value>
+         <variableId>d031b527-0278-4c31-afa6-2e654bfae292</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7454403a-663c-4118-a3e2-183ddf7a9bd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PW</value>
+         <variableId>02ef9fdd-89c0-4c62-8172-a1652c91c973</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7454403a-663c-4118-a3e2-183ddf7a9bd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PWNew</value>
+         <variableId>59922de7-1e71-4809-8ef9-a9045773e338</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7454403a-663c-4118-a3e2-183ddf7a9bd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PWNewAgain</value>
+         <variableId>31b4b1ab-2331-4b3a-8631-aa213b0085f2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7454403a-663c-4118-a3e2-183ddf7a9bd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Result</value>
+         <variableId>0fe827c8-0182-48cc-8176-bb696bd0aa30</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7454403a-663c-4118-a3e2-183ddf7a9bd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>ResultExpect</value>
+         <variableId>ce87e1d5-6da0-4a9d-bd51-2159cfc8f229</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

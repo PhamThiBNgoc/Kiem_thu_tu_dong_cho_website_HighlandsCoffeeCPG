@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Seach</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>86612d81-3944-4530-a496-b1b6d6a3647f</testSuiteGuid>
+   <testCaseLink>
+      <guid>0ce23c06-5449-414f-b863-bcb6b264abb1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Seachh</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f80fa664-3302-4912-9f92-75924c278dbe</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Seach</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f80fa664-3302-4912-9f92-75924c278dbe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Seach</value>
+         <variableId>4916db26-72e9-4fe8-a506-cf5c16c3aa8a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f80fa664-3302-4912-9f92-75924c278dbe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Result</value>
+         <variableId>1ecead04-d746-45ac-9de2-2a38aacce300</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>f80fa664-3302-4912-9f92-75924c278dbe</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Url</value>
+         <variableId>c60a5b77-3ca6-4711-8ee5-dd847825bb65</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

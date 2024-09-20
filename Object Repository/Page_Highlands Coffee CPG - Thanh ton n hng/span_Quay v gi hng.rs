@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Quay v gi hng</name>
+   <tag></tag>
+   <elementGuidId>8f0781c0-6dd9-4e03-a654-c7fb3dcbff5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.order-summary__nav.field__input-btn-wrapper.hide-on-mobile.layout-flex--row-reverse > a.previous-link > span.previous-link__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='order-summary']/div/div[4]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7ff320dd-a0d0-4af1-b8c2-ac67dffa9bad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>previous-link__content</value>
+      <webElementGuid>bd9ff477-5252-472a-93b7-a61dd87d1264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quay về giỏ hàng</value>
+      <webElementGuid>780eb903-b4d8-4da1-b4ea-9c70b7cc02ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;order-summary&quot;)/div[@class=&quot;order-summary__sections&quot;]/div[@class=&quot;order-summary__nav field__input-btn-wrapper hide-on-mobile layout-flex--row-reverse&quot;]/a[@class=&quot;previous-link&quot;]/span[@class=&quot;previous-link__content&quot;]</value>
+      <webElementGuid>58b1e0ff-dbdd-481a-a193-b3d6a23f89b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='order-summary']/div/div[4]/a/span</value>
+      <webElementGuid>e4451bd1-49d6-4fc9-84da-87c6494c0757</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='❮'])[2]/following::span[1]</value>
+      <webElementGuid>6ad86dd3-69e2-4089-af61-c84f7acf7306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ĐẶT HÀNG'])[2]/following::span[1]</value>
+      <webElementGuid>3f1a2e4b-736a-451a-9b74-ea723e66d25e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Có lỗi xảy ra khi xử lý. Vui lòng thử lại'])[2]/preceding::span[1]</value>
+      <webElementGuid>e0b05b37-c63b-41e4-b388-5023794c8587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/span</value>
+      <webElementGuid>ce0776d0-b5cf-42ef-bfd8-d584794c604b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Quay về giỏ hàng' or . = 'Quay về giỏ hàng')]</value>
+      <webElementGuid>0d5bd3ad-300c-467c-b0b7-23915f302b6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='checkoutForm']/div/main/div/div/a/span</value>
+      <webElementGuid>f59a02a1-31bf-49a9-aa89-f06c1a14795c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='❮'])[1]/following::span[1]</value>
+      <webElementGuid>a2a121b7-66f7-4fff-be6d-64d854f8095b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ĐẶT HÀNG'])[1]/following::span[1]</value>
+      <webElementGuid>4b350c56-0be2-43e4-8801-eca91614c68a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Có lỗi xảy ra khi xử lý. Vui lòng thử lại'])[1]/preceding::span[1]</value>
+      <webElementGuid>4dc6c294-2687-4723-94cd-e1e786b6cc65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đơn hàng (1 sản phẩm)'])[2]/preceding::span[1]</value>
+      <webElementGuid>b6cddc66-b76b-437f-98af-297eb3073609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quay về giỏ hàng']/parent::*</value>
+      <webElementGuid>1f912756-9788-4a20-8d1b-45dce5c41bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/a/span</value>
+      <webElementGuid>a5750ece-6094-4ee4-af4b-cc153f375a5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

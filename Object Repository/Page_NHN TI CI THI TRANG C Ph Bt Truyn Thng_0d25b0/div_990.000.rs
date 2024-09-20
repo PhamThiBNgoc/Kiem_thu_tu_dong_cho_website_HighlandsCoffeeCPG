@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_990.000</name>
+   <tag></tag>
+   <elementGuidId>c9e128c8-cb01-4b90-96db-51424b4e1ea2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-right.cart__totle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//strong[contains(@class, 'totals_price') and contains(@class, 'price')]&#xd;
+&#xd;
+</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>579292f9-2419-4126-adb7-0d597bf74711</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-right cart__totle</value>
+      <webElementGuid>28e141a9-c0f5-4da0-8d64-b79924400224</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>990.000₫</value>
+      <webElementGuid>0cb890d9-aa11-470f-97dc-89c1c4e653ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-sidebars&quot;)/div[@class=&quot;evo-cart-content&quot;]/div[@class=&quot;cart-footer&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;cart__subtotal&quot;]/div[@class=&quot;text-right cart__totle&quot;]</value>
+      <webElementGuid>ac0d3484-7ce0-48ad-bbee-f6816c6294d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-sidebars']/div/div[3]/div/div/div[2]</value>
+      <webElementGuid>d719d896-05fb-445b-8cfe-d7047efe322f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tổng tiền:'])[1]/following::div[1]</value>
+      <webElementGuid>c28f3a9a-293f-449d-9ff7-2b6d25de3aab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bỏ sản phẩm'])[1]/following::div[5]</value>
+      <webElementGuid>69aca345-3d2d-47ef-8d49-85ddb018106b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thanh toán'])[1]/preceding::div[1]</value>
+      <webElementGuid>2e3f0fdd-a322-4a01-aa81-063b35d5a4b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm kiếm sản phẩm'])[1]/preceding::div[2]</value>
+      <webElementGuid>b238159f-a72b-4d03-9f5c-da84ce023ee0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]</value>
+      <webElementGuid>0bae75a2-2b02-4290-bfff-7f0e120beded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '990.000₫' or . = '990.000₫')]</value>
+      <webElementGuid>34c6f039-4d1a-412a-af17-702793c889cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

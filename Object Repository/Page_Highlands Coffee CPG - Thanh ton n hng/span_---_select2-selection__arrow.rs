@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_---_select2-selection__arrow</name>
+   <tag></tag>
+   <elementGuidId>13a2aa59-5500-4a81-9057-be81f7c16379</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.select2.select2-container.select2-container--default.select2-container--above.select2-container--open > span.selection > span.select2-selection.select2-selection--single > span.select2-selection__arrow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='checkoutForm']/div/main/div/article/div/section/div[2]/div/div[5]/div/span/span/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>596d5226-6c40-4aaf-b42a-39d1b1bf22a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-selection__arrow</value>
+      <webElementGuid>dc90c3b3-a246-4df5-ae7e-19ab60ae8d21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>6f13a669-7552-48b5-8e32-4fba5ebc4659</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkoutForm&quot;)/div[@class=&quot;wrap&quot;]/main[@class=&quot;main&quot;]/div[@class=&quot;main__content&quot;]/article[@class=&quot;animate-floating-labels row&quot;]/div[@class=&quot;col col--two&quot;]/section[@class=&quot;section&quot;]/div[@class=&quot;section__content&quot;]/div[@class=&quot;fieldset&quot;]/div[@class=&quot;field field--show-floating-label&quot;]/div[@class=&quot;field__input-wrapper field__input-wrapper--select2&quot;]/span[@class=&quot;select2 select2-container select2-container--default select2-container--above select2-container--open&quot;]/span[@class=&quot;selection&quot;]/span[@class=&quot;select2-selection select2-selection--single&quot;]/span[@class=&quot;select2-selection__arrow&quot;]</value>
+      <webElementGuid>6e88d80b-b29f-4120-879e-d1d8913a0566</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='checkoutForm']/div/main/div/article/div/section/div[2]/div/div[5]/div/span/span/span/span[2]</value>
+      <webElementGuid>b7b25409-e337-48a8-88df-6f6bd0aa2518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='---'])[2]/following::span[1]</value>
+      <webElementGuid>38c3b19a-e4d5-4719-a262-879e7f90a340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tỉnh thành'])[1]/following::span[5]</value>
+      <webElementGuid>1d655e1b-dc21-4a18-a705-84a9b067f4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quận huyện (tùy chọn)'])[1]/preceding::span[2]</value>
+      <webElementGuid>32d4185c-24a7-47bf-831f-15b561598a7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phường xã (tùy chọn)'])[1]/preceding::span[8]</value>
+      <webElementGuid>81a162b5-a499-442e-bc92-4435f1957dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/span/span/span/span[2]</value>
+      <webElementGuid>75399adc-b4dc-4c46-a648-3b149de7e34e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

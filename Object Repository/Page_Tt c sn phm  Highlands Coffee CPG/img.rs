@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>8ab86d62-4e90-4802-aa9e-92fa2c400c88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart-sidebars']/div/div[2]/div/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.cart_image > img[alt=&quot;[Mua 1 được 3: Cà phê+ Ví họa tiết + Voucher trực tiếp] Cà Phê Bột Truyền Thống 1kg tặng gói 200g + Voucher trực tiếp+ Ví họa tiết&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>aec97628-8dd8-4606-9f89-96c441c09eab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://bizweb.dktcdn.net/thumb/medium/100/465/740/products/idac-3-c3.png</value>
+      <webElementGuid>188686fc-78d9-4b8a-a177-956a6dec85c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>[Mua 1 được 3: Cà phê+ Ví họa tiết + Voucher trực tiếp] Cà Phê Bột Truyền Thống 1kg tặng gói 200g + Voucher trực tiếp+ Ví họa tiết</value>
+      <webElementGuid>93876491-e3e7-48af-a95e-1de772a4ff87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart-sidebars&quot;)/div[@class=&quot;evo-cart-content&quot;]/div[@class=&quot;cart_body&quot;]/div[@class=&quot;clearfix cart_product productid-114503628&quot;]/a[@class=&quot;cart_image&quot;]/img[1]</value>
+      <webElementGuid>91847dbe-d51c-4ec1-ad00-8c8d1878393c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart-sidebars']/div/div[2]/div/a/img</value>
+      <webElementGuid>0b935dad-fc38-4285-aad8-14800c3a5034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='[Mua 1 được 3: Cà phê+ Ví họa tiết + Voucher trực tiếp] Cà Phê Bột Truyền Thống 1kg tặng gói 200g + Voucher trực tiếp+ Ví họa tiết'])[2]</value>
+      <webElementGuid>4b80770c-94b3-4a5e-a773-0b3b28b78b84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/img</value>
+      <webElementGuid>f2085e5b-ebf8-4c9d-b3f5-552d903bf54a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://bizweb.dktcdn.net/thumb/medium/100/465/740/products/idac-3-c3.png' and @alt = '[Mua 1 được 3: Cà phê+ Ví họa tiết + Voucher trực tiếp] Cà Phê Bột Truyền Thống 1kg tặng gói 200g + Voucher trực tiếp+ Ví họa tiết']</value>
+      <webElementGuid>77a10c0f-9236-4b14-a701-92c3896faef1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
